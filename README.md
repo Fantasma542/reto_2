@@ -14,4 +14,4 @@
 // 9.- Y ahora hay que llevarlo a la pagina en este caso hay que poner git remote add origin https://github.com/nombreusuario/nombrecarpeta.git (Este enlace es el de la carpeta .git que creamos en el 4 paso).
 // 10.- Por ulrimo publicaremos la carpeta, asique pondremos git push -u origin main.
 
-///////// Fin, recargue la pagina donde habia creado el repositorio y tendria su carpeta ahi.
+///////// Fin, recargue la pagina donde habia creado el repositorio y tendria su carpeta ahi. holas
