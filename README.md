@@ -1,4 +1,4 @@
-///////// SUBIR ARCHIVO A GITHUBh
+///////// SUBIR ARCHIVO A GITHUB
 ////////////////////////////////
 
 // 1.- Crearte una carpeta y llamarla como quieras.
